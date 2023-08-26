@@ -1,7 +1,7 @@
 const { tlang,addCommand } = require('../../lib')
 const Config = require('../../config')
 const axios = require('axios')
-const url = 'https://raw.githubusercontent.com/SamPandey001/Secktor-Plugins/main/plugins/bgm/bgm.js'
+const url = 'https://raw.githubusercontent.com/X-sensei/Mikasa-plugins/main/plugins/bgm/bgm.js'
 /*
 Set Your Own db url.
 I can't find more bgm if you have please provide us in Support Group.
